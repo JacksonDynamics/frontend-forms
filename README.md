@@ -2,7 +2,8 @@
 
 This project was a practice round of how to create forms using HTML and CSS.  Specifically including Text Fields, Email Fields, and Text Area boxes. 
 
-
+![]
+(https://jacksondynamics.github.io/frontend-forms/)
 
 https://jacksondynamics.github.io/frontend-forms/
 
