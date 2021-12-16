@@ -12,7 +12,7 @@ https://jacksondynamics.github.io/frontend-forms/
 # About Me
 
 * [Personal GitHub](https://github.com/JacksonDynamics)
-* [LinkedIn](https//www.linkedin.com/in/brendon-jackson)
+* [LinkedIn](linkedin.com/in/brendon-jackson)
 
 
 
